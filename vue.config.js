@@ -1,5 +1,6 @@
 'use strict';
 const path = require('path');
+const DEV_PORT = 9000;
 
 function resolve(dir) {
   return path.join(__dirname, dir);
@@ -25,7 +26,7 @@ module.exports = {
   // webpack-dev-server 相关配置
   devServer: {
     host: '0.0.0.0',
-    port: '81',
+    port: DEV_PORT,
     // 自动打开浏览器
     open: true,
     proxy: {
