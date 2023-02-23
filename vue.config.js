@@ -25,7 +25,7 @@ module.exports = {
   // webpack-dev-server 相关配置
   devServer: {
     host: '0.0.0.0',
-    port: '80',
+    port: '81',
     // 自动打开浏览器
     open: true,
     proxy: {
