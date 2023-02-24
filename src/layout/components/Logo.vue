@@ -13,7 +13,7 @@
             </svg>
           </div>
           <div class="logo-container-left-text">
-            <p class="logo-name">easyink</p>
+            <p class="logo-name">小确幸大生活</p>
             <p class="logo-company-name">{{ companyName }}</p>
           </div>
         </div>
@@ -21,7 +21,7 @@
           <svg class="icon-easyWeCom_logo_white">
             <use href="#icon-easyWeCom_logo_white" />
           </svg>
-          <p class="text-no-company-name">easyink</p>
+          <p class="text-no-company-name">Life is all about having a good time</p>
         </div>
       </router-link>
     </transition>

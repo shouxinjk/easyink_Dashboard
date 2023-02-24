@@ -1,7 +1,7 @@
 {
-  "name": "EasyInk",
+  "name": "SCRM",
   "version": "0.1.0",
-  "description": "EasyInk",
+  "description": "SCRM",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

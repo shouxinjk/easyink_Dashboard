@@ -20,12 +20,14 @@
 
         <!-- <screenfull id="screenfull" class="right-menu-item hover-effect" /> -->
       </template>
+      <!--
       <div class="version-introduced flex mr10 cp" @click="openUrl">
         <span>版本介绍</span>
         <svg v-if="showNewVersion" class="icon-new" :width="24" :height="24" style="margin-left: 3px;">
           <use href="#icon-new" />
         </svg>
       </div>
+      -->
       <svg class="icon-skin" :width="25" :height="25" @click="openChangeTheme">
         <use href="#icon-skin" />
       </svg>
