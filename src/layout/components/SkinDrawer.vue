@@ -46,7 +46,7 @@ export default {
     };
   },
   created() {
-    this.nowActiveTheme = localStorage.getItem('themeType') || 'theme3'; //alexchew: 默认为蓝色
+    this.nowActiveTheme = localStorage.getItem('themeType') || 'theme4'; //alexchew: 默认为蓝色
   },
   mounted() {},
   methods: {
