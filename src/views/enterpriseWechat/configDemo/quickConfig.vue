@@ -39,11 +39,11 @@ export default {
       active: 0,
       domainConfig: {
         sidebarDomain: '',
-        sidebarPort: '8092',
+        sidebarPort: '9002',
         dashboardDomain: '',
-        dashboardPort: '8091',
+        dashboardPort: '9000',
         weComSystemDomain: '',
-        weComSystemPort: '8090'
+        weComSystemPort: '9001'
       },
       qrcodeUrl: '',
       // 二维码框显示加载状态
