@@ -1,8 +1,9 @@
 <template>
   <div style="width: 100%;">
     <div v-loading="webLoginLoading" class="login">
+      <!--
       <img class="login-logo" :style="'top:' + logoTop + 'px'" src="@/assets/image/login_logo.svg" alt="">
-
+        -->
       <div class="login-wrap">
         <div class="login-tab-wrap">
           <div v-show="!isAuth" :class="['login-tab', activeTab === qrCodeLoginType ? 'active' : '']" @click="changeActiveTab(qrCodeLoginType)">
