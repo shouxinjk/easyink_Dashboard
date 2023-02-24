@@ -723,7 +723,7 @@ export const removeObjEmptyVal = (object) => {
  * 获取并设置当前主题
  */
 export const getNowTheme = () => {
-  const themeType = localStorage.getItem('themeType');
+  const themeType = localStorage.getItem('themeType') || 'theme4';
   window.document.documentElement.setAttribute('data-theme', themeType);
 };
 

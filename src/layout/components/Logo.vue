@@ -8,9 +8,12 @@
       >
         <div v-if="companyName" class="logo-container-left">
           <div>
+            <!--
             <svg class="icon-easyWeCom_logo_white">
               <use href="#icon-easyWeCom_logo_white" />
             </svg>
+            -->
+            <img src="http://www.shouxinjk.net/static/logo/distributor/ilife.png" class="icon-easyWeCom_logo_white" style="object-fit: cover;"/>
           </div>
           <div class="logo-container-left-text">
             <p class="logo-name">小确幸大生活</p>
@@ -18,9 +21,12 @@
           </div>
         </div>
         <div v-else class="logo-no-company-name">
+          <!--
           <svg class="icon-easyWeCom_logo_white">
             <use href="#icon-easyWeCom_logo_white" />
           </svg>
+          -->
+          <img src="http://www.shouxinjk.net/static/logo/distributor/ilife.png" class="icon-easyWeCom_logo_white" style="object-fit: cover;"/>
           <p class="text-no-company-name">Life is all about having a good time</p>
         </div>
       </router-link>

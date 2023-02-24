@@ -27,11 +27,11 @@
           <use href="#icon-new" />
         </svg>
       </div>
-      -->
       <svg class="icon-skin" :width="25" :height="25" @click="openChangeTheme">
         <use href="#icon-skin" />
       </svg>
       <span class="icon-line" />
+      -->
       <el-dropdown
         class="avatar-container right-menu-item hover-effect"
         trigger="click"
