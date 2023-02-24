@@ -42,7 +42,7 @@ export default {
         { id: '#112D4E', otherList: ['#112D4E', '#BCD4F0', '#D2E2F4'] },
         { id: '#090723', otherList: ['#090723', '#37ADFF', '#B8E4FF', '#D1EDFF'] },
         { id: '#3A4750', otherList: ['#3A4750', '#37ADFF', '#B8E4FF', '#D1EDFF'] }],
-      nowActiveTheme: 'theme1'
+      nowActiveTheme: 'theme4'
     };
   },
   created() {
