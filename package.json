@@ -1,7 +1,7 @@
 {
-  "name": "SCRM",
+  "name": "XSCRM",
   "version": "0.1.0",
-  "description": "SCRM",
+  "description": "ilife SCRM",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
