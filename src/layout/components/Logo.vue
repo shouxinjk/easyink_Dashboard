@@ -13,7 +13,7 @@
               <use href="#icon-easyWeCom_logo_white" />
             </svg>
             -->
-            <img src="http://www.shouxinjk.net/static/logo/distributor/ilife.png" class="icon-easyWeCom_logo_white" style="object-fit: cover;width:35px;height:35px;"/>
+            <img src="https://www.biglistoflittlethings.com/ilife-web-wx/images/avatar/default.jpg" class="icon-easyWeCom_logo_white" style="object-fit: cover;width:35px;height:35px;"/>
           </div>
           <div class="logo-container-left-text">
             <p class="logo-name">小确幸大生活</p>
@@ -26,7 +26,7 @@
             <use href="#icon-easyWeCom_logo_white" />
           </svg>
           -->
-          <img src="http://www.shouxinjk.net/static/logo/distributor/ilife.png" class="icon-easyWeCom_logo_white" style="object-fit: cover;width:35px;height:35px;"/>
+          <img src="https://www.biglistoflittlethings.com/ilife-web-wx/images/avatar/default.jpg" class="icon-easyWeCom_logo_white" style="object-fit: cover;width:35px;height:35px;"/>
           <p class="text-no-company-name">Life is all about having a good time</p>
         </div>
       </router-link>
